@@ -20,8 +20,9 @@ This repository contains the code and data needed to replicate the paper's resul
 
 **SIPRI Analysis Europe.ipynb**: The initial pass on the analysis; generates the initial correlation network **probs_n_100.pickle** and some first pass goodness-of-fit measures that are not used in the final paper.
 
-**SIPRI Analysis Europe - v2.ipynb**: Main analysis for the in-sample prediction test.
+**SIPRI Analysis Europe - v2.ipynb**: Main analysis for the in-sample prediction test (4.1 Analysis I).
 
-**SIPRI Analysis Europe 90s.ipynb**: Out of sample prediction, using **probs-91_n_100.pickle** correlation network data.
+**SIPRI Analysis Europe 90s.ipynb**: Out of sample prediction, using **probs-91_n_100.pickle** correlation network data (4.2 Analysis II).
 
 **Correlation network drawing.ipynb**: Drawing the correlation network (paper Fig. 1).
+
