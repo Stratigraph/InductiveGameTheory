@@ -1,0 +1,26 @@
+
+.project
+
+.pydevproject
+
+fast_calc/build/temp.macosx-10.6-intel-2.7/fast_calc.o
+
+fast_calc/fast_calc.c
+
+fast_calc/fast_calc.so
+
+*.pyc
+
+src/SIPRI Analysis - Cython Test.ipynb
+
+src/SIPRI Analysis MENA - Imports.ipynb
+
+src/SIPRI Analysis MENA.ipynb
+
+src/SIPRI Analysis-Copy0.ipynb
+
+src/SIPRI Analysis.ipynb
+
+src/prob_net.graphml
+
+src/probs_60-90_n_100.pickle
